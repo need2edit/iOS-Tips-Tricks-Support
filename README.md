@@ -6,7 +6,7 @@
 The quickest guide to getting started with the Swift language direct from Apple.
 
 #### [Swift Language Guide](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
-The a more comprehensive look at the key components of Swift. Covers everything you need to know about the language.
+A more comprehensive look at the key components of Swift. Covers everything you need to know about the language.
 
 #### [https://swift.org](https://swift.org)
 Get involved! Swift is open source and has tons of great contributors. [https://swift.org](https://swift.org) is a great way to keep current on the latest updates for the language.
@@ -17,7 +17,7 @@ If you're looking for project based learning or a complete curriculum, Team Tree
 [http://referrals.trhou.se/need2edit](http://referrals.trhou.se/need2edit)
 
 ## Lynda.com
-[Simon Alardice's Fundamentals of Programming](https://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html) is a great way to get started without glossing over improtant concepts a lot of beginners miss out on.
+[Simon Alardice's Fundamentals of Programming](https://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html) is a great way to get started without glossing over important concepts a lot of beginners miss out on.
 
 # Newsletters, Keeping Up-To-Date
 
