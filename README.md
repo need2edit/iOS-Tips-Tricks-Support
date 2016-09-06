@@ -21,7 +21,7 @@ If you're looking for project based learning or a complete curriculum, Team Tree
 
 # Newsletters, Keeping Up-To-Date
 
-#### [Natasha The Robot](https://www.natashatherobot.com)
+### [Natasha The Robot](https://www.natashatherobot.com)
 The best collection of Swifty news out there.
 
 # Random Articles
