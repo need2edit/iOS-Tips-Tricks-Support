@@ -16,6 +16,9 @@ If you're looking for project based learning or a complete curriculum, Team Tree
 
 [http://referrals.trhou.se/need2edit](http://referrals.trhou.se/need2edit)
 
+## Bart Jacobson, Cocoacasts.com
+Three amazing lessons on Autolayout, View Controller Refactoring using MVVM, and Core Data. Best lessons I've come across to date in terms of covering advanced topics without glossing over the fundamentals. Very well organized and concise format.
+
 ## Lynda.com
 [Simon Alardice's Fundamentals of Programming](https://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html) is a great way to get started without glossing over important concepts a lot of beginners miss out on.
 
